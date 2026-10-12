@@ -21,6 +21,7 @@ class Program
         RunWorkflow(validatedTasks, Policies.standardPolicy);
         Console.WriteLine("=== RUNNING WITH EXPRESS POLICY ===");
         RunWorkflow(validatedTasks, Policies.expressPolicy);
+        Console.WriteLine("hello");
     }
 
     static void RunWorkflow(IEnumerable<TaskItem> tasks, Func<TaskItem, double> policy)
