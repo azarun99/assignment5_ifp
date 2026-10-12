@@ -5,3 +5,7 @@ Write Unit Tests,4.0,3,true
 Deploy to Production,8.0,6,false
 Update Documentation,abc,1,false
 Code Review,1.5,3,false
+Security Patch,0.5,5,false
+Plan Sprint,20.0,2,false
+Broken Line,2.0
+Idle Task,0,3,false

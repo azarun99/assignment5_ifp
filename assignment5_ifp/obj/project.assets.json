@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aza\\Downloads\\Telegram Desktop\\assignment5_ifp\\assignment5_ifp\\SelectDailyTasksApp.csproj",
+      "projectUniqueName": "C:\\Users\\aza\\Desktop\\FinalIFP\\assignment5_ifp\\SelectDailyTasksApp.csproj",
       "projectName": "SelectDailyTasksApp",
-      "projectPath": "C:\\Users\\aza\\Downloads\\Telegram Desktop\\assignment5_ifp\\assignment5_ifp\\SelectDailyTasksApp.csproj",
+      "projectPath": "C:\\Users\\aza\\Desktop\\FinalIFP\\assignment5_ifp\\SelectDailyTasksApp.csproj",
       "packagesPath": "C:\\Users\\aza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aza\\Downloads\\Telegram Desktop\\assignment5_ifp\\assignment5_ifp\\obj\\",
+      "outputPath": "C:\\Users\\aza\\Desktop\\FinalIFP\\assignment5_ifp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aza\\AppData\\Roaming\\NuGet\\NuGet.Config",

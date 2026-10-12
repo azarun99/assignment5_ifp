@@ -1,10 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
 using SelectDailyTasksApp.Models;
 
 namespace SelectDailyTasksApp.Rules
 {
+    // две политики одного правила "как считать score задачи"
+    // обе чистые: зависят только от аргумента, без глобального состояния
     public static class Policies
     {
         public static double standardPolicy(TaskItem item) => item.Urgency * 10.0;

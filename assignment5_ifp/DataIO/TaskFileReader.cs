@@ -1,41 +1,44 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using System.IO;
-using SelectDailyTasksApp.Models;
-using SelectDailyTasksApp.Validation;
+using System.Diagnostics.CodeAnalysis;
 
 namespace SelectDailyTasksApp.DataIO
 {
+    // только файловый ввод: никакой валидации и вывода в консоль
     public static class TaskFileReader
     {
-        public static IEnumerable<TaskItem> LoadTasksFromFile(string filePath)
+        // false = вход отсутствует или не читается (это НЕ то же самое, что пустой файл)
+        // true + пустой массив = валидный пустой датасет
+        public static bool TryReadLines(string? filePath, [NotNullWhen(true)] out string[]? lines, out string errorMessage)
         {
-            var validTasks = new List<TaskItem>();
+            lines = null;
+            errorMessage = string.Empty;
+
+            if (string.IsNullOrWhiteSpace(filePath))
+            {
+                errorMessage = "Error: File path is missing.";
+                return false;
+            }
 
             if (!File.Exists(filePath))
             {
-                Console.WriteLine($"Error: Could not find '{filePath}' file.");
-                return validTasks;
+                errorMessage = $"Error: Could not find '{filePath}' file.";
+                return false;
             }
 
-            string[] lines = File.ReadAllLines(filePath);
-
-            foreach(var line in lines)
+            try
             {
-                string[] words = line.Split(',');
-                var raw = new RawTaskDto(words[0], words[1], words[2], words[3]);
-                if(TaskValidator.TryParseAndValidate(raw, out TaskItem? validTask, out string errorMessage))
-                {
-                    validTasks.Add(validTask);
-                    Console.WriteLine($"Validated task and added: {validTask.TaskName}");
-                }
-                else
-                {
-                    Console.WriteLine(errorMessage);
-                }
+                lines = File.ReadAllLines(filePath);
+                return true;
             }
-            return validTasks;
+            catch (IOException ex)
+            {
+                errorMessage = $"Error: Could not read '{filePath}': {ex.Message}";
+                return false;
+            }
+            catch (UnauthorizedAccessException ex)
+            {
+                errorMessage = $"Error: No access to '{filePath}': {ex.Message}";
+                return false;
+            }
         }
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SelectDailyTasksApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee4bf3f1fda80030ae7ab6d1400cb2026cc46d7b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02b1145df7b2678771b468a9da1af8feed282b4d")]
 [assembly: System.Reflection.AssemblyProductAttribute("SelectDailyTasksApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SelectDailyTasksApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
