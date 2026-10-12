@@ -1,7 +1,0 @@
-Fix Login Bug,3.5,4,false
-Refactor Database Query,-2.0,5,false
-Write Unit Tests,4.0,3,true
-,5.0,2,false
-Deploy to Production,8.0,6,false
-Update Documentation,abc,1,false
-Code Review,1.5,3,false
