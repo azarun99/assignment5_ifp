@@ -1,0 +1,31 @@
+C:\Users\aza\source\repos\assignment5_ifp\assignment5_ifp\bin\Debug\net10.0\SelectDailyTasksApp.exe
+C:\Users\aza\source\repos\assignment5_ifp\assignment5_ifp\bin\Debug\net10.0\SelectDailyTasksApp.deps.json
+C:\Users\aza\source\repos\assignment5_ifp\assignment5_ifp\bin\Debug\net10.0\SelectDailyTasksApp.runtimeconfig.json
+C:\Users\aza\source\repos\assignment5_ifp\assignment5_ifp\bin\Debug\net10.0\SelectDailyTasksApp.dll
+C:\Users\aza\source\repos\assignment5_ifp\assignment5_ifp\bin\Debug\net10.0\SelectDailyTasksApp.pdb
+C:\Users\aza\source\repos\assignment5_ifp\assignment5_ifp\obj\Debug\net10.0\SelectDailyTasksApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aza\source\repos\assignment5_ifp\assignment5_ifp\obj\Debug\net10.0\SelectDailyTasksApp.AssemblyInfoInputs.cache
+C:\Users\aza\source\repos\assignment5_ifp\assignment5_ifp\obj\Debug\net10.0\SelectDailyTasksApp.AssemblyInfo.cs
+C:\Users\aza\source\repos\assignment5_ifp\assignment5_ifp\obj\Debug\net10.0\SelectDailyTasksApp.csproj.CoreCompileInputs.cache
+C:\Users\aza\source\repos\assignment5_ifp\assignment5_ifp\obj\Debug\net10.0\SelectDailyTasksApp.dll
+C:\Users\aza\source\repos\assignment5_ifp\assignment5_ifp\obj\Debug\net10.0\refint\SelectDailyTasksApp.dll
+C:\Users\aza\source\repos\assignment5_ifp\assignment5_ifp\obj\Debug\net10.0\SelectDailyTasksApp.pdb
+C:\Users\aza\source\repos\assignment5_ifp\assignment5_ifp\obj\Debug\net10.0\SelectDailyTasksApp.genruntimeconfig.cache
+C:\Users\aza\source\repos\assignment5_ifp\assignment5_ifp\obj\Debug\net10.0\ref\SelectDailyTasksApp.dll
+C:\Users\aza\source\repos\assignment5_ifp\assignment5_ifp\obj\Debug\net10.0\SelectDa.B4FED52E.Up2Date
+C:\Users\aza\Downloads\Telegram Desktop\assignment5_ifp\assignment5_ifp\bin\Debug\net10.0\SelectDailyTasksApp.exe
+C:\Users\aza\Downloads\Telegram Desktop\assignment5_ifp\assignment5_ifp\bin\Debug\net10.0\SelectDailyTasksApp.deps.json
+C:\Users\aza\Downloads\Telegram Desktop\assignment5_ifp\assignment5_ifp\bin\Debug\net10.0\SelectDailyTasksApp.runtimeconfig.json
+C:\Users\aza\Downloads\Telegram Desktop\assignment5_ifp\assignment5_ifp\bin\Debug\net10.0\SelectDailyTasksApp.dll
+C:\Users\aza\Downloads\Telegram Desktop\assignment5_ifp\assignment5_ifp\bin\Debug\net10.0\SelectDailyTasksApp.pdb
+C:\Users\aza\Downloads\Telegram Desktop\assignment5_ifp\assignment5_ifp\obj\Debug\net10.0\SelectDailyTasksApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aza\Downloads\Telegram Desktop\assignment5_ifp\assignment5_ifp\obj\Debug\net10.0\SelectDailyTasksApp.AssemblyInfoInputs.cache
+C:\Users\aza\Downloads\Telegram Desktop\assignment5_ifp\assignment5_ifp\obj\Debug\net10.0\SelectDailyTasksApp.AssemblyInfo.cs
+C:\Users\aza\Downloads\Telegram Desktop\assignment5_ifp\assignment5_ifp\obj\Debug\net10.0\SelectDailyTasksApp.csproj.CoreCompileInputs.cache
+C:\Users\aza\Downloads\Telegram Desktop\assignment5_ifp\assignment5_ifp\obj\Debug\net10.0\SelectDailyTasksApp.sourcelink.json
+C:\Users\aza\Downloads\Telegram Desktop\assignment5_ifp\assignment5_ifp\obj\Debug\net10.0\SelectDailyTasksApp.dll
+C:\Users\aza\Downloads\Telegram Desktop\assignment5_ifp\assignment5_ifp\obj\Debug\net10.0\refint\SelectDailyTasksApp.dll
+C:\Users\aza\Downloads\Telegram Desktop\assignment5_ifp\assignment5_ifp\obj\Debug\net10.0\SelectDailyTasksApp.pdb
+C:\Users\aza\Downloads\Telegram Desktop\assignment5_ifp\assignment5_ifp\obj\Debug\net10.0\SelectDailyTasksApp.genruntimeconfig.cache
+C:\Users\aza\Downloads\Telegram Desktop\assignment5_ifp\assignment5_ifp\obj\Debug\net10.0\ref\SelectDailyTasksApp.dll
+C:\Users\aza\Downloads\Telegram Desktop\assignment5_ifp\assignment5_ifp\obj\Debug\net10.0\SelectDa.B4FED52E.Up2Date

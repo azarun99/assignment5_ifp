@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="assignment5_ifp/SelectDailyTasksApp.csproj" />
+  <Project Path="SelectDailyTasksApp.Tests/SelectDailyTasksApp.Tests.csproj" Id="26ebd1c3-b452-408f-bffb-583af753d03c" />
+</Solution>
